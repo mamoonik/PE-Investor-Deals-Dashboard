@@ -1,0 +1,27 @@
+# Python virtual environments
+venv/
+backend/venv/
+
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+
+# Environment files
+.env
+backend/.env
+# Ignore Python venvs
+venv/
+backend/venv/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore sensitive environment configs
+.env
+backend/.env
+backend/.env
